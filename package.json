@@ -1,0 +1,30 @@
+{
+  "name": "send_sms",
+  "version": "1.0.0",
+  "description": "How to send SMS using NodeJS for Free? - (with Fast2sms - India)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon app.js"
+  },
+  "keywords": [
+    "const",
+    "require",
+    "send",
+    "render",
+    "get",
+    "post",
+    "console"
+  ],
+  "author": "SIDDHI",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fast-two-sms": "^3.0.0",
+    "fast2sms": "^1.0.3",
+    "unirest": "^0.6.0"
+  }
+}
